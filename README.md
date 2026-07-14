@@ -1,5 +1,6 @@
 # gemini-watermark-calibrator
 # Gemini 水印校准器
+![Uploading 620743722-f9e13fef-c793-479c-9bbd-48ae4e4001f8.png…]()
 
 Gemini 水印校准器是一个 Windows 图形化小工具，用于对 Gemini 图片右下角的星形水印区域进行位置校准、Gain 处理和黑边柔化。它适合处理固定位置、固定形态的图片水印场景，并提供局部放大预览，方便在导出前确认效果。
 
